@@ -1,0 +1,14 @@
+who is my client?
+-> GlobalNext Soltuions(IT company) -> employs -> junior developors to senior executives
+
+
+
+-> To build Tax calculator program
+-> constraint: new tax law
+
+Requirement:
+-> 1. accept the emplyee details , including monthly salary components
+        what are employee details include?
+        -> id, name, email, address etc 
+        monthly salary components?
+        -> basic salary , allowances, deductions
