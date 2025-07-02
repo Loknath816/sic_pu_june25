@@ -1,5 +1,10 @@
 number_of_lines = int(input("Enter the number of lines of right angled triangle:"))
 
+for i in range(1, number_of_lines + 1):
+    print()
+    for j in range(1, i + 1):
+        print(f"{j} ", end = ' ')
+        
 
 
 
