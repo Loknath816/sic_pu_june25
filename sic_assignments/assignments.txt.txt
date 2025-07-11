@@ -1,0 +1,88 @@
+1. add files in remote repo and also in local repo. Then sync them
+2. Learn to undo the 3 commands required to push (git add, git commit, git push)
+3. What happens when we have 2 commits and we try to push? Discuss in detail.
+4. How floating point number is stored in memory.
+5. Find out why there are no ++ and -- operators in Python.
+6. Check if a year is Leap year
+7. Check if a +ve integer is Perfect square
+8. Find smallest of 3 distinct numbers
+9. Farmer Problem
+10. Taxation problem.
+
+Check from which of the Python module the following functions come from.
+range()
+input()
+print()
+len()
+min()
+max()
+sorted()
+
+Assignments on Loops
+1. Find biggest digit in a number
+2. Find 2nd smallest digit in a number
+3. Count number of Prime digits in a number
+4. Print the Prime numbers in decreasing order between m and n (m < n)
+5. Find the Nth Fibo (HemaChandra) term. Assume 1st 2 terms are 1 and 2
+6. Find sum of thye series n - n2/3 + n4/5 - n8/7 .... m terms (1<=n<=4 and 2<=m<=10)
+7. Print the following shapes by accepting number of lines
+A. Right Angled Triangle
+B. Equi lateral Triangle
+C. Hollow Square
+D. Howllow Rhombus
+E. Pascal's Triangle
+F. X shape
+G. X shape inside hollow Square with 0 at middle/center
+H. Benzene Ring (C6H6) Hexagon
+8. Find sum of the Even placed digits in the given number.
+9. Find sum of the Odd placed Even digits in the given number.
+
+IMPORTANT SOURCES OF LEARNING:
+1. Official Documentation (java: oracle docs, Front-End: Dev.mozilla, PythonL Python docs, C/C++: MSDN or IBM)
+2. Youtube: MIT Open University, Stanford
+3. Certification: NPTEL, Company Certification (AWS, GCP, Java-1Z0830, PyhtonInstitute.org PCAP, PCEP, PCED)
+CDAC is the best
+--------------------
+1. Which modules(s) are automatically loaded/imported by python interpretor
+2. In which module does print(), input(), len() functions come from?
+
+WEEK2:
+1. Name the Ultimate Parent class in Python (And its important methods and members)
+2. What are the double underscore methods (functions)
+3. How to define explicitly the main function in Python
+4. Try to know as many methods of list and str classes as possible.
+5. Why the command line Args are stored in a list and why not in tuple?
+6. What is Pythonic and pep3 ?
+DSA
+1. Implement Binary search using Recursion
+2. Print N terms of Fibo series using Recursion
+3. Find Sum of digits of a number using Recursion
+4. Optimized selection sort
+5. Derive the efficiency of Quick Sort for Best Case
+6. Find out, how we can create read only variable in Python
+
+
+Python-Mysql, Python-Mongo
+Linked Lists (Stack and Queue Implementation)
+Merge Sort Implementation and Derivation of efficiency
+Trees, BST, AVL Tree
+Bucket Sort, Radix Sort, Heap Sort
+FLask-MySQL/Mongo
+NumPy, Pandas, Matplotlip and seaborn
+Project (Hackathon ???)
+
+Linked List Problems:(Create using OOP/Class)
+1. Implement Queue using SLL and DLL, insert at rear delete from front
+2. Implement Stack using SLL, insert and delete from front
+3. Implement Stack using DLL, insert and delete from rear
+4. Reverse a SLL
+5. Merge 2 sorted SLLs into one sorted SLL
+6. Check if 2 SLL converges at some point or not
+
+Other Problems:
+1. Impletent Circular Queue using an Array/List
+2. Create a Matrix of (M, N) coordinates and print the Matrix in Spiral format
+
+Week3
+*** 1. Create a Singleton class in Pyhton
+Singleton is a class to which only one object can be created
