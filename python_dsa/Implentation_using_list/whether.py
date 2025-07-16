@@ -1,7 +1,7 @@
 import requests
 
 # Your OpenWeatherMap API key
-api_key = "cd5e0b7d0f18cca0b613556bc9f164cc" #'your_api_key'
+api_key = "" #'your_api_key'
 # City for which you want the weather
 city = 'Bengaluru' #'London'
 
