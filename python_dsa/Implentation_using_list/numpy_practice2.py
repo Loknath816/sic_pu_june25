@@ -1,17 +1,13 @@
-import numpy as np
-def f(x, y):
-	return 10 * x + y
+import pandas as pd
 
-my_aaray = np.fromfunction(f, (5, 4), dtype = int)
+def read_csv_file():
 
-print(my_aaray)
-# Slicing the Numpy Arrays:
-print("-------------------------------------------------------")
-print(my_aaray[2, 3]) # my_array[2][3]
-print(my_aaray[0:5, 1]) # From Row-1 to Row-5, print the 2nd element
-print(my_aaray[ : , 1]) # From all rows, print 2nd element
-print(my_aaray[1:3, : ]) # From Row-2 to Row-3, print all elements
-print()
-print(my_aaray[1:3])
-print()
-print(my_aaray[ : , 0])
+    # Read the Excel file into a pandas DataFrame
+    df = pd.read_csv('c-section.csv')
+
+	# Display the first few rows of the DataFrame
+    print(df.count())
+    print(df.head())
+    print(df.tail())
+
+read_csv_file()
